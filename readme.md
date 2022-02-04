@@ -1,8 +1,11 @@
+> #### *Outdated Repository use instead of this the [@igorkowalczyk/majobot](https://github.com/igorkowalczyk/majobot) Repository.*
+> #### *Repositório Desatualizado use ao invés desse o repositório do [@igorkowalczyk/majobot](https://github.com/igorkowalczyk/majobot).
+
 > #### *Este repositório foi criado pelo João Victor e desenvolvido pelo igor kowalczyk com a intenção de atualizar o majobot [@igorkowalczyk/majobot](https://github.com/igorkowalczyk/majobot) para `discord.js v12.3.1`. O código aqui pode conter erros e bugs, não usá-lo na produção*
 
 # João Victor Player bot
 
-Um Bot avançado de discórdia, contém comandos para moderação, diversão, música, e economia.
+Um Bot avançado de discord, contém comandos para moderação, diversão, música, e economia.
 
 [![Discord](https://discord.com/api/guilds/731629737343975494/widget.png?style=banner2)](https://invite.gg/joao_victor_player)
 
